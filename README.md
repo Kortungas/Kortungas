@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software student passionate about technology, problem-solving, and building meaningful digital experiences. <br>Always learning, creating, and turning ideas into real projects.
+Soy Kurt, estudiante de Software en la Universidad Tecnológica de San Juan del Río. Me apasiona la tecnología, el desarrollo de soluciones digitales y la creación de proyectos que puedan tener un uso real dentro y fuera del entorno académico.
+
+Me gusta transformar ideas en sistemas funcionales, cuidar tanto la lógica como la experiencia de usuario, y aprender constantemente mientras construyo. Actualmente desarrollo proyectos personales, académicos e institucionales que me permiten experimentar, mejorar mis habilidades y crecer como futuro ingeniero de software.
 
 
 ## 🌐 Socials:
